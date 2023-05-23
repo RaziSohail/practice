@@ -1,0 +1,165 @@
+.Container{
+    height: 700px;
+    width: 710px;
+    background-color: black;
+}
+
+.Navigation{
+    height: 50px;
+    width: 710px;
+    color: black;
+    padding-top: 25px;
+    background-color: green;
+    text-align: center;
+}
+
+.Header{
+    height: 100px;
+    width: 710px;
+    color: black;
+    padding-top: 55px;
+    background-color: red;
+    text-align: center;
+}
+
+.Section1{
+    height: 200px;
+    width: 710px;
+    color: black;
+    padding-top: 25px;
+    background-color: rgb(223, 99, 99);
+    text-align: center;
+}
+
+.sec1{
+    margin-bottom: 20px;
+    width: 20px;
+    height: 50px;
+    text-align: center;
+    padding-left:330px;
+}
+
+.Card1{
+    
+    height: 50px;
+    width: 170px;
+    color: white;
+    margin-left: 5px;
+    padding-top: 20px;
+    background-color: rgb(116, 88, 88);
+    text-align: center;
+    float: left;
+}
+
+.Card2{
+    height: 50px;
+    width: 170px;
+    color: white;
+    margin-left: 5px;
+    padding-top: 20px;
+    background-color: rgb(207, 44, 44);
+    text-align: center;
+    float: left;
+}
+
+.Card3{
+    height: 50px;
+    width: 170px;
+    margin-left: 5px;
+    padding-top: 20px;
+    color: white;
+    background-color: rgb(128, 128, 128);
+    text-align: center;
+    float: left;
+}
+
+.Card4{
+    height: 50px;
+    width: 170px;
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 20px;
+    background-color: rgb(128, 128, 128);
+    text-align: center;
+    float: left;
+}
+
+.Section2{
+    height: 250px;
+    width: 710px;
+    color: black;
+    background-color: rgb(69, 24, 233);
+    text-align: center;
+    padding-top: 30px;
+}
+
+.sec2{
+    width: 350;
+    height: 50px;
+    text-align: center;
+}
+
+.card5{
+    height: 200px;
+    width: 345px;
+    color: white;
+    padding-left: 10px;
+    margin-left: 5px;
+    background-color: rgb(14, 223, 223);
+    text-align: center;
+    float: left;
+}
+
+.furthercard{
+    height: 200px;
+    width: 345px;
+    color: white;
+    margin-right: 5px;
+    background-color: gray;
+    text-align: center;
+    float: left;
+}
+
+.card6{
+    height: 61px;
+    width: 335px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: rgb(207, 118, 35);
+    text-align: center;
+    float: left;
+   
+}
+
+.card7{
+    height: 61px;
+    width: 335px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: rgb(236, 18, 18);
+    text-align: center;
+    float: left;
+}
+
+.card8{
+    height: 61px;
+    width: 335px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: rgb(223, 23, 163);
+    text-align: center;
+    float: left;
+}
+
+.Footer{
+    height: 80px;
+    width: 710px;
+    color: black;
+    padding-top: 45px;
+    background-color: green;
+    text-align: center;
+}
